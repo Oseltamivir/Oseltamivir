@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Oseltamivir/langs)](https://githubtrends.io)
 
+<!--
+![Oseltamivir  's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oseltamivir&show_icons=true&theme=transparent)
 
 
 
