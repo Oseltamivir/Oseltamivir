@@ -1,6 +1,13 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oseltamivir)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Oseltamivir/langs)](https://githubtrends.io)
+
+
+
+
+
+
+
 <!--
 **Oseltamivir/Oseltamivir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
